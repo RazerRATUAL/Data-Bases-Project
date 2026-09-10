@@ -1,0 +1,29 @@
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB.mdf
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB_log.ldf
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe.config
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.pdb
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.AssemblyReference.cache
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Properties.Resources.resources
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.SignUpForm.resources
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.GenerateResource.cache
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.CoreCompileInputs.cache
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.exe
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.pdb
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.LogInForm.resources
+D:\INFORMATICA\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.GameForm.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB.mdf
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB_log.ldf
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe.config
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.pdb
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.AssemblyReference.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.SuggestedBindingRedirects.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.GameForm.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Properties.Resources.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.GenerateResource.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.csproj.CoreCompileInputs.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.exe
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.pdb
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Signup.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Login.resources

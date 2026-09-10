@@ -1,0 +1,30 @@
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB.mdf
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB_log.ldf
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe.config
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.pdb
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.AssemblyReference.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.SuggestedBindingRedirects.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Signup.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Properties.Resources.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Login.resources
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.GenerateResource.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.CoreCompileInputs.cache
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.exe
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.pdb
+E:\info\informatica alex\C#\ind projects\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.GameForm.resources
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB.mdf
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\JocDB_log.ldf
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe.config
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.exe
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\bin\Debug\ProiectBazeDeDate.pdb
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.AssemblyReference.cache
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.exe.config
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.GameForm.resources
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Signup.resources
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Properties.Resources.resources
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.Login.resources
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.GenerateResource.cache
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\Proiectel(Poatesnake).csproj.CoreCompileInputs.cache
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.exe
+E:\info\ProiectBazeDeDate\ProiectBazeDeDate\obj\Debug\ProiectBazeDeDate.pdb
